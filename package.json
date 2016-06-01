@@ -1,0 +1,17 @@
+{
+  "name": "nodejsherokudeployment",
+  "version": "0.0.1",
+  "description": "deploying node js to heroku platform",
+  "main": "server.js",
+  "author": {
+    "name": "Mohit Suhane",
+    "email": "suhane1989@gmail.com"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.9.x"
+  },
+  "dependencies": {
+    "express": "4.13.x"
+  }
+}
